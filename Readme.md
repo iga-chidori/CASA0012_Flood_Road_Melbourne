@@ -1,10 +1,9 @@
-<div>
-<div style="float:left">
-    <h1 style="width:400px">Reproducible Analysis</h1>
-    <h3 style="width:400px">CASA0012: MSc SDSV Dissertation</h3>
-    <h3 style="width:400px">Author: Haisu Chen</h3>
+
+<div display="inlin">
+    <h1 style="width:200px">Reproducible Analysis</h1>
+    <h3 style="width:200px">CASA0012: MSc SDSV Dissertation</h3>
+    <h3 style="width:200px">Author: Haisu Chen</h3>
 </div>
-<div align="float:right"><img width="100" src="https://github.com/jreades/i2p/raw/master/img/casa_logo.jpg" /></div></div>
 
 # Declaration
 The reproducible analysis is the part of the dissertation of the CASA0012. All the sources have been acknowledged. 
