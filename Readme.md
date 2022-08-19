@@ -1,7 +1,7 @@
 <div style="float:left">
-    <h1 style="width:850px">Reproducible Analysis</h1>
-    <h3 style="width:600px">CASA0012: MSc SDSV Dissertation</h3>
-    <h3 style="width:600px">Author: Haisu Chen</h3>
+    <h1 style="width:50px">Reproducible Analysis</h1>
+    <h3 style="width:500px">CASA0012: MSc SDSV Dissertation</h3>
+    <h3 style="width:500px">Author: Haisu Chen</h3>
 </div>
 <div style="float:right"><img width="100" src="https://github.com/jreades/i2p/raw/master/img/casa_logo.jpg" /></div>
 
